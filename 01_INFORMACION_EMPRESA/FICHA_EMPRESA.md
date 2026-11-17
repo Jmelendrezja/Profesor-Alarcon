@@ -1,4 +1,4 @@
-# FICHA DE LA EMPRESA — INVERSIONES JL (v0.3)
+# FICHA DE LA EMPRESA — INVERSIONES JL (v0.4)
 
 Leyenda de fuente: **[DOC]** confirmado documentalmente · **[PRA]** información del practicante · **[OBS]** observación directa · **[PEND]** pendiente de verificación
 Documento de respaldo: `SUNAT_Consulta_RUC_10719941023_2026-11-17.png` (Consulta RUC de SUNAT, fecha de consulta: 17/11/2026)
@@ -35,7 +35,7 @@ Documento de respaldo: `SUNAT_Consulta_RUC_10719941023_2026-11-17.png` (Consulta
 | Docente | José Antonio Alarcón Ato | [PRA] |
 | Inicio de las prácticas | 20/03/2026 | [PRA] |
 | Término de las prácticas | Enero de 2027 (previsto; día exacto: [PEND]) | [PRA] |
-| Horario | 7:30 a 16:30 (días por semana: [PEND]) | [PRA] |
+| Horario | Lunes a sábado, 7:30 a 16:30 (incluye almuerzo) | [PRA] |
 | Horas exigidas por la universidad | [PEND] | — |
 | Ciudad (carátula) | Piura | [PRA] |
 
@@ -57,7 +57,19 @@ Documento de respaldo: `SUNAT_Consulta_RUC_10719941023_2026-11-17.png` (Consulta
 | Clientes principales | Familias de la zona, maestros de obra, gasfiteros y electricistas |
 | Horas de mayor afluencia | 8:00–10:00 y 14:00–15:00 |
 | Proveedores | Ubicados en Piura y en Lima; número: [PEND] |
-| Modalidad de pedido | "Por referidos" [PEND: aclarar] |
-| Reposición | "1 semana" [PEND: frecuencia o tiempo de entrega] |
+| Selección de proveedores | Recomendados por una "ferretería hermana" [PRA] |
+| Frecuencia de pedido | 1 vez por semana; tiempo de entrega: [PEND] |
 | Competencia cercana | 2 ferreterías |
 | Origen de los productos | Algunos son de origen chino y se compran a un distribuidor peruano |
+
+## Herramientas y procedimientos (Bloque 3) [PRA]
+| Campo | Dato |
+|---|---|
+| Sistema de ventas y comprobantes | **Rapifac** (precios, precio de compra, emisión de boletas y facturas) |
+| Registro complementario | Excel (ventas del día) |
+| Medios de pago | Efectivo y Yape |
+| Fondo inicial de caja | S/ 100 diarios |
+| Egresos desde caja | Ninguno |
+| Entrega de caja | Diaria, a la Propietaria |
+| Descuentos | Los aplican la Propietaria y el practicante, verificando el precio de compra en el sistema |
+| Sin stock | Se ofrece al cliente una alternativa |
