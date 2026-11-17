@@ -1,4 +1,4 @@
-# FICHA DE LA EMPRESA — INVERSIONES JL (v0.4)
+# FICHA DE LA EMPRESA — INVERSIONES JL (v0.5)
 
 Leyenda de fuente: **[DOC]** confirmado documentalmente · **[PRA]** información del practicante · **[OBS]** observación directa · **[PEND]** pendiente de verificación
 Documento de respaldo: `SUNAT_Consulta_RUC_10719941023_2026-11-17.png` (Consulta RUC de SUNAT, fecha de consulta: 17/11/2026)
@@ -57,8 +57,8 @@ Documento de respaldo: `SUNAT_Consulta_RUC_10719941023_2026-11-17.png` (Consulta
 | Clientes principales | Familias de la zona, maestros de obra, gasfiteros y electricistas |
 | Horas de mayor afluencia | 8:00–10:00 y 14:00–15:00 |
 | Proveedores | Ubicados en Piura y en Lima; número: [PEND] |
-| Selección de proveedores | Recomendados por una "ferretería hermana" [PRA] |
-| Frecuencia de pedido | 1 vez por semana; tiempo de entrega: [PEND] |
+| Selección de proveedores | Recomendados por una ferretería de la misma familia [PRA] |
+| Frecuencia de pedido | 1 vez por semana; tiempo de entrega: 4 días en promedio |
 | Competencia cercana | 2 ferreterías |
 | Origen de los productos | Algunos son de origen chino y se compran a un distribuidor peruano |
 
@@ -66,10 +66,15 @@ Documento de respaldo: `SUNAT_Consulta_RUC_10719941023_2026-11-17.png` (Consulta
 | Campo | Dato |
 |---|---|
 | Sistema de ventas y comprobantes | **Rapifac** (precios, precio de compra, emisión de boletas y facturas) |
-| Registro complementario | Excel (ventas del día) |
+| Reporte de ventas | Excel generado por Rapifac; todas las ventas quedan registradas, con o sin boleta |
 | Medios de pago | Efectivo y Yape |
 | Fondo inicial de caja | S/ 100 diarios |
 | Egresos desde caja | Ninguno |
 | Entrega de caja | Diaria, a la Propietaria |
 | Descuentos | Los aplican la Propietaria y el practicante, verificando el precio de compra en el sistema |
 | Sin stock | Se ofrece al cliente una alternativa |
+| Balance de caja | Diario: efectivo + Yape frente al reporte de Rapifac; sobrantes frecuentes de S/ 50–100 |
+| Control de stock | Rapifac muestra el stock, pero la revisión es visual en los estantes y solo cuando hay dudas |
+| Criterio de "bajo stock" | Cuando el producto ya se agotó (no hay stock mínimo definido) |
+| Aviso de reposición | Por WhatsApp a los jefes; ellos deciden qué y cuánto comprar |
+| Recepción de mercadería | La recibe y la verifica el practicante |
